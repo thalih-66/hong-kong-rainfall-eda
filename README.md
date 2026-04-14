@@ -17,7 +17,7 @@ Using Python, I cleaned and analyzed historical daily rainfall records and creat
 - pandas
 - matplotlib
 - seaborn
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ## Project Tasks
 
