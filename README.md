@@ -61,9 +61,3 @@ This project reflects my growing interest in combining data analytics with meteo
 ## Note
 
 For the annual rainfall visualization, a suspicious partial-year record was excluded to avoid misleading interpretation of the long-term pattern.
-
-## Charts
-
-![Monthly Rainfall](monthly_rainfall.png)
-![Annual Rainfall](annual_rainfall_final.png)
-![Rainfall Boxplot](seasonality_boxplot.png)
