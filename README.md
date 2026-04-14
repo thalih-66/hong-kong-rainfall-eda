@@ -68,7 +68,7 @@ For the annual rainfall visualization, a suspicious partial-year record was excl
 ![Monthly Rainfall](monthly_rainfall.png)
 
 ### Annual Total Rainfall in Hong Kong
-![Annual Rainfall](rainfall_analysis.png)
+![Annual Rainfall](annual_rainfall_HK.png)
 
 ### Distribution of Daily Rainfall by Month
 ![Rainfall Boxplot](seasonality_boxplot.png)
